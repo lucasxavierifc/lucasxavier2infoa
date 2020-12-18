@@ -1,0 +1,14 @@
+body {background-color:#FFD700}
+table {background-color:#0000FF}
+button {background-color:#F5FFFA}
+h1:hover {
+			background-color: white;
+			color: blue;
+			font-size: 200%;	
+		}	
+figure:hover {
+			color: blue;
+			font-size: 200%;
+			text-decoration-style: dashed;
+			text-decoration-color: white;
+		}
